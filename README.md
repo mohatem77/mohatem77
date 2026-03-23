@@ -22,6 +22,14 @@ My work combines:
 - ERP Integration Gateway
 ## Core Skills
 Python • AI Automation • Data Science • SaaS Architecture • ERP Integration • Odoo • Workflow Systems • APIs • Financial Analytics
+
+## 🧠 My Contribution
+
+- Designed system architecture
+- Defined AI processing pipeline
+- Built workflow automation model
+- Designed ERP integration strategy
+
 ## Connect
 - LinkedIn: www.linkedin.com/in/mohamed-el-sayed-msc-mba-microsoft-certified-data-analyst-87932626
 - Email: Hatem@vectratechnologiesuae.com
