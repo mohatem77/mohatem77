@@ -1,16 +1,27 @@
 ## Hi there 👋
+# Mohamed ElSayed
 
-<!--
-**mohatem77/mohatem77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder building AI-powered finance automation platforms for enterprise workflows.
+I design and build product-led digital systems focused on financial automation, vendor onboarding, AI-driven invoice processing, and ERP-connected workflow platforms.
+My work combines:
+- AI document understanding
+- SaaS product design
+- ERP integration architecture
+- workflow automation
+- data-driven financial operations
+## Current Focus
+- AI-powered AP invoice automation
+- Vendor onboarding SaaS
+- ERP integration middleware
+- Financial workflow intelligence
+- Python, Odoo, APIs, and enterprise architecture
+## Featured Projects
+- Vectra Finance Automation Platform
+- Vendor Onboarding SaaS
+- AI AP Invoice Automation
+- ERP Integration Gateway
+## Core Skills
+Python • AI Automation • Data Science • SaaS Architecture • ERP Integration • Odoo • Workflow Systems • APIs • Financial Analytics
+## Connect
+- LinkedIn: www.linkedin.com/in/mohamed-el-sayed-msc-mba-microsoft-certified-data-analyst-87932626
+- Email: Hatem@vectratechnologiesuae.com
