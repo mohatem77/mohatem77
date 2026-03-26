@@ -31,5 +31,5 @@ Python • AI Automation • Data Science • SaaS Architecture • ERP Integrat
 - Designed ERP integration strategy
 
 ## Connect
-- LinkedIn: www.linkedin.com/in/mohamed-el-sayed-msc-mba-microsoft-certified-data-analyst-87932626
+- LinkedIn: www.linkedin.com/in/mohamed-el-sayed-msc-mba
 - Email: Hatem@vectratechnologiesuae.com
