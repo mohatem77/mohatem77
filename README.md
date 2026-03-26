@@ -32,4 +32,4 @@ Python • AI Automation • Data Science • SaaS Architecture • ERP Integrat
 
 ## Connect
 - LinkedIn: www.linkedin.com/in/mohamed-el-sayed-msc-mba
-- Email: Hatem@vectratechnologiesuae.com
+- Email: mohamed.elsayed@vectratechnologiesuae.com
